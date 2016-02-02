@@ -1,0 +1,14 @@
+#searchfield input{
+	min-width: 220px;
+	width: 360px;
+	float:left;	
+}
+#searchfield {
+	//min-width: 280px;
+	width: 390px;
+	//margin-right: 30px;
+	margin-top:8px;
+}
+#searchfield button{
+	float:left;
+}
